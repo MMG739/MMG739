@@ -1,7 +1,7 @@
-<div>
-  <img src="./sncode.jpg" height=100>
+<div class="container-fluid d-flex">
+  <img src="./sncode.jpg">
+  <h1 align="center"> Hello World 👋🏽 I'm Mouhamadou Moustapha Gueye </h1> 
 </div>
-<h1 align="center"> Hello World 👋🏽 I'm Mouhamadou Moustapha Gueye </h1> 
 <p align="center"> 
   a FullStack Developer based in Dakar, Senegal. I'm passionate about creating innovative technological solutions and currently pursuing a degree in Software Engineering.
 </p>
