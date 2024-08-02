@@ -1,5 +1,5 @@
 <div>
-  <img src="./sncode.jpg">
+  <img src="./sncode.jpg" height=100>
 </div>
 <h1 align="center"> Hello World 👋🏽 I'm Mouhamadou Moustapha Gueye </h1> 
 <p align="center"> 
