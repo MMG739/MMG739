@@ -1,3 +1,6 @@
+<div>
+  <img src="./sncode.jpg">
+</div>
 <h1 align="center"> Hello World 👋🏽 I'm Mouhamadou Moustapha Gueye </h1> 
 <p align="center"> 
   a FullStack Developer based in Dakar, Senegal. I'm passionate about creating innovative technological solutions and currently pursuing a degree in Software Engineering.
