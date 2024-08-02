@@ -1,8 +1,8 @@
-#<h1> Hello World 👋 I'm **Mouhamadou Moustapha Gueye** </h1> 
+<h1 align="center"> Hello World 👋 I'm **Mouhamadou Moustapha Gueye** </h1> 
 <p align="center"> 
   a FullStack Developer based in Dakar, Senegal. I'm passionate about creating innovative technological solutions and currently pursuing a degree in Software Engineering.
 </p>
-## Skills
+<h1 align="center"> Dev Stack </h1> 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,java,python,php" />
 </p>
