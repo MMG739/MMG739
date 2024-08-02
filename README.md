@@ -1,6 +1,6 @@
 <div align="center">
   <img src="./bannerSnCode.png" alt="Coding Technology" style="max-width: 100%; height: auto;">
-  <h1>Hello World 👋🏽 I'm Mouhamadou Moustapha Gueye</h1>
+  <h1>Hello World 👋🏽 I'm MMG</h1>
 </div>
 
 <p align="center">
