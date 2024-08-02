@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./sncode.jpg" alt="Coding Technology" style="max-width: 100%; height: 10%;">
+  <img src="./bannerSncode1.jpg" alt="Coding Technology" style="max-width: 100%; height: auto;">
   <h1>Hello World 👋🏽 I'm Mouhamadou Moustapha Gueye</h1>
 </div>
 
