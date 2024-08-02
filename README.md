@@ -1,4 +1,4 @@
-<h1 align="center"> Hello World 👋 I'm **Mouhamadou Moustapha Gueye** </h1> 
+<h1 align="center"> ![ItKarakItkaraktusGIF](https://github.com/user-attachments/assets/bdfe5bbe-0dee-4f32-80ec-3b9b539b683e)  I'm **Mouhamadou Moustapha Gueye** </h1> 
 <p align="center"> 
   a FullStack Developer based in Dakar, Senegal. I'm passionate about creating innovative technological solutions and currently pursuing a degree in Software Engineering.
 </p>
