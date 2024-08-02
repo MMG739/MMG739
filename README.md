@@ -4,7 +4,9 @@
 </div>
 
 <p align="center">
-  I’m a FullStack Developer based in Dakar, Senegal, with a deep passion for coding and creating innovative technological solutions. I love the fact that in this field, there’s always something new to discover and master.
+  I’m a FullStack Developer based in Dakar, Senegal, with a deep passion for coding and creating innovative technological solutions. </p>
+<p align="center">
+  I love the fact that in this field, there’s always something new to discover and master.
 </p>
 
 <p align="center">
