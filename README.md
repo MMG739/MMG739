@@ -4,7 +4,7 @@
 </div>
 
 <p align="center">
-  A FullStack Developer based in Dakar, Senegal. I'm passionate about creating innovative technological solutions and currently pursuing a degree in Software Engineering.
+  I’m a FullStack Developer based in Dakar, Senegal, with a deep passion for coding and creating innovative technological solutions. My experience in Java and Spring, along with my interest in Oracle database concepts, will enable me to contribute significantly to your projects. I also have knowledge of Flutter and GetX, and I’m always eager to learn and explore new technologies. I love the fact that in this field, there’s always something new to discover and master.
 </p>
 
 <p align="center">
