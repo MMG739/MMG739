@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://mmg739.github.io">See my website💻</a>
+  <a href="https://mmgueye.xyz">See my website💻</a>
 </p>
 
 <h1 align="center">Dev Stack</h1>
