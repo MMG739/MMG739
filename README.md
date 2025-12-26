@@ -24,7 +24,7 @@ With expertise spanning **AI engineering, ERP development, and full-stack apps**
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,java,php,odoo" />
-  <img src="https://skillicons.dev/icons?i=angular,spring,flutter,fastapi" />
+  <img src="https://skillicons.dev/icons?i=react,angular,spring,flutter,fastapi" />
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,mysql,postgresql,linux,figma" />
 </p>
 
@@ -34,8 +34,8 @@ With expertise spanning **AI engineering, ERP development, and full-stack apps**
 
 | Category | Tools & Frameworks |
 |-----------|--------------------|
-| **Backend** | Python (FastAPI, Django), Java (Spring Boot), PHP (Symfony) |
-| **Frontend** | Angular, Flutter, HTML/CSS/JS |
+| **Backend** | Python (FastAPI, Flutter, Django), Java (Spring Boot), PHP (Symfony) |
+| **Frontend** | React, Angular, Flutter, HTML/CSS/JS |
 | **Data Science** | Pandas, NumPy, Scikit-learn, Matplotlib |
 | **AI Development** | TensorFlow, PyTorch, LangChain, OpenAI APIs |
 | **ERP** | Odoo module development, customization, automation |
